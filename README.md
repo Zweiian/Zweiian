@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my Senior Project: The Americans with Disabilities Act Professional Text Reader (ADAPTR for short!)
-- 🌱 I’m currently learning 3D modeling and MATLAB. I use Fusion360 for the modeling of our 3D printed housing.
+- 🔭 I’m currently working on a research project: "IoT System Water Quality Evaluation"
+- 🌱 I’m currently learning 3D modeling and MATLAB. I use Fusion360 for the creation of models.
 - 👯 I’m looking to collaborate on cameras in my professional careeer.
 - 🤔 I’m looking for help with integrated circuitry programming. It is something that I want to improve upon.
 - 💬 Ask me about Long Board Dancing! It's my favorite past-time and is growing in popularity.
